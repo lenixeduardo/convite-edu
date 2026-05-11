@@ -7,7 +7,4 @@ export default defineConfig({
   define: {
     global: 'globalThis',
   },
-  server: {
-    middlewareMode: true,
-  },
 })
